@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wxgame.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_AJMH.js"
     },
 {
       "id": "Miss",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wdzfd.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_AJYX.js"
     },
 {
       "id": "XV ",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_tyt.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_CheckCK.js"
     },
 {
       "id": "Mi",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wish.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_OpenCard_Force.js"
     },
 {
       "id": "Han1修复",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_xs_zzl.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_TheWorldcup.js"
     },
     {
       "id": "han",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_yili.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_TreasureRank.js"
     },
     {
       "id": "Po",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.4",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_tyt_ks.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_YSLD.js"
     },
     {
       "id": "jav",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wsdlb.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_a2.js"
     },
 {
       "id": "91",
@@ -82,7 +82,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_zjb.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_bean_change.js"
     },
 {
       "id": "91y",
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_zdjr.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_bean_change_pro.js"
     },
 {
       "id": "Lives",
@@ -100,7 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_yqyl.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_bean_home.js"
     },
     {
       "id": "JA_ovo",
@@ -109,7 +109,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "Xi",
-      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wrtred.js"
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/re_bean_info.js"
     }
   ]
 }
