@@ -1,0 +1,115 @@
+{
+  "title": "xisex",
+  "description": "汇集网页模块",
+  "icon": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/ForwardSex.png",
+  "widgets": [
+    {
+      "id": "ja",
+      "title": "Ja",
+      "description": "获取Ja全站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wxgame.js"
+    },
+{
+      "id": "Miss",
+      "title": "Miss",
+      "description": "获取 Miss",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wdzfd.js"
+    },
+{
+      "id": "XV ",
+      "title": "XV ",
+      "description": "获取 XV ",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_tyt.js"
+    },
+{
+      "id": "Mi",
+      "title": "Mi",
+      "description": "获取 Mi",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wish.js"
+    },
+{
+      "id": "Han1修复",
+      "title": "Han1修复",
+      "description": "获取 Han修复",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_xs_zzl.js"
+    },
+    {
+      "id": "han",
+      "title": "han",
+      "description": "获取 han 视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_yili.js"
+    },
+    {
+      "id": "Po",
+      "title": "Po",
+      "description": "在线Po",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.4",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_tyt_ks.js"
+    },
+    {
+      "id": "jav",
+      "title": "JAV",
+      "description": "获取 JAV 推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wsdlb.js"
+    },
+{
+      "id": "91",
+      "title": "91",
+      "description": "获取 91",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_zjb.js"
+    },
+{
+      "id": "91y",
+      "title": "91y",
+      "description": "获取 91y",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_zdjr.js"
+    },
+{
+      "id": "Lives",
+      "title": "Lives",
+      "description": "Lives",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_yqyl.js"
+    },
+    {
+      "id": "JA_ovo",
+      "title": "JA_ovo",
+      "description": "获取 JA_ovo推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Xi",
+      "url": "https://raw.githubusercontent.com/xinruzhishuei/KR/refs/heads/main/fw_wrtred.js"
+    }
+  ]
+}
